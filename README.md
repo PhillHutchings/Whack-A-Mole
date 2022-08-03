@@ -1,5 +1,6 @@
 # Whack-A-Mole
 
+main class WhackAMole.java
 
 This is the first game I made without prompt or example to go by, I got the inspiration from a whack'a'mole toy i had gotten my son for his birthday years back, I saw it and thought it would be a good game to create.
 
